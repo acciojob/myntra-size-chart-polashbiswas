@@ -1,2 +1,27 @@
-
+table{
+	border:1px solid black;
+	border-collapse:collapse;
+	width:100%;
+}
+td, th{
+	border:1px solid black;
+}
+td{
+	text-align:right;
+}
+.sizeName ,th{
+	text-align:left;
+}
+thead{
+	background-color:#EC5861;
+}
+.waist{
+	background-color:#F8BDC1;
+}
+.chest{
+	background-color:#FBF0F0;
+}
+.sleeve{
+	background-color:#E3D2F8;
+}
 /* Your CSS Code here. */
